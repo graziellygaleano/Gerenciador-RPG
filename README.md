@@ -1,3 +1,8 @@
+<h1>Descrição do projeto:</h1>
+Sistema de gerenciamento de campanhas de RPG desenvolvido em Python, com foco em organização de entidades, regras de negócio e estruturação do sistema.
+O projeto permite o controle de campanhas, personagens, combates e outros elementos comuns a jogos de RPG de mesa.
+<h1>---------------------</h1>
+
 <h1>Artefatos:</h1>
 
 **Documento:** https://docs.google.com/document/d/1Icqp6rsOwVp0axlA3mHyNOXZP-bZppwqsr5qfm-IC2Q/edit?tab=t.0
