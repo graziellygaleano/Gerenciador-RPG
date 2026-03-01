@@ -1,1 +1,0 @@
-# As funções não são testáveis, dependem de interações com usuário.
